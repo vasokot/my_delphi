@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.dfm,C:\Users\kotovas\Desktop\MyPinger\Main.dfm=C:\Users\kotovas\Documents\Borland Studio Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.756,=D:\kotovas\Programming\MyPinger\source\uPinger.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,C:\Users\kotovas\Desktop\MyPinger\Main.pas=C:\Users\kotovas\Documents\Borland Studio Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.bdsproj,C:\Users\kotovas\Desktop\MyPinger\MyPinger.bdsproj=C:\Users\kotovas\Documents\Borland Studio Projects\Project1.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
